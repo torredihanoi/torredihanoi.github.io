@@ -1,3 +1,10 @@
+# Usage
+
+git clone https://github.com/torredihanoi/torredihanoi.github.io.git
+cd torredihanoi.github.io
+npm install
+ng serve --open
+
 # MyAppDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
