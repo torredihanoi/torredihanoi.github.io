@@ -6,7 +6,7 @@ cd torredihanoi.github.io
 
 npm install
 
-ng serve --open
+ng serve --open (http://localhost:4200/)
 
 # MyAppDemo
 
