@@ -1,8 +1,11 @@
 # Usage
 
 git clone https://github.com/torredihanoi/torredihanoi.github.io.git
+
 cd torredihanoi.github.io
+
 npm install
+
 ng serve --open
 
 # MyAppDemo
