@@ -1,4 +1,8 @@
-# Usage
+# Live demo
+
+https://torredihanoi.github.io/dist/my-app-demo/
+
+# Install
 
 git clone https://github.com/torredihanoi/torredihanoi.github.io.git
 
